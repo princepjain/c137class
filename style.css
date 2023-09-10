@@ -1,0 +1,35 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+   margin-top:0;
+    width: 100%;
+   font-size: large;
+   box-shadow: 10px 10px 30px 10px orange;
+}
+
+#start{
+    font-size: large;
+}
+
+#copy_right_footer{
+    margin-bottom: 0;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    background-color: orange;
+    font-size: medium;
+    line-height: 3;
+    box-shadow: 10px 10px 50px 20px orange;
+    
+}
+
+
+canvas{
+    border-style: ridge;
+    border-color: chartreuse;
+    border-width: 5px ;
+    border-radius: 3px;
+}
